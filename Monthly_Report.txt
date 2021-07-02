@@ -1,0 +1,58 @@
+                                                  PLATINUM CREDIT CARD STATEMENT
+
+R Adithya Kumar                                                                                                            Phone number: 9765412845
+F1 Sumana Apartments,Shanti Nagar,Bangalore-024
+
+
+
+
+
+                                                     ******PAYMENT SUMMARY******
+
+Total Payment Due =75303.16 Dr     Statement Period:- 20/01/2020 - 19/02/2020      Payment Due Date: 07/02/2020      Statement Generation Date:- 19/02/2020
+
+Credit Card Number:35126700****1001        Credit Limit=205000.00        Available Credit Limit=129696.84        Available Cash Limit=10100.00
+
+Previous Balance - Payments - Credits + Purchase + Other Debit&Charges = Total Payment Due
+
+
+                                                     ******ACCOUNT SUMMARY******
+
+Slno.   DATE		 MERCHANT CATEGORY			 TRANSACTION			 AMOUNT(Rs.) 
+ 				 CARD No:35126700****1001 			 NAME: R Adithya Kumar
+
+1.     24/01/2020		 MOTO   			 debits				 739.00 dr
+
+
+2.     25/01/2020		 TRAVEL 			 credit				 955.00 cr
+
+
+3.     01/02/2020		 TRAVEL 			 debits				 1010.00 dr
+
+
+4.     03/02/2020		 FUEL   			 credit				 999.00 cr
+
+
+5.     03/02/2020		 PERSONAL 			 debits				 34201.00 dr
+
+
+6.     04/02/2020		 RESTAURANTS 			 debits				 3400.00 dr
+
+
+7.     04/02/2020		 TRANSPORT 			 debits				 10010.00 dr
+
+
+8.     07/02/2020		 BOOK STORE 			 debits				 4400.00 dr
+
+
+9.     09/02/2020		 FUEL   			 debits				 999.00 dr
+
+
+10.     09/02/2020		 TRANSPORT 			 credit				 432.00 cr
+
+
+11.     10/02/2020		 TRANSPORT 			 debits				 200.00 dr
+
+
+                                                                        ******END OF STATEMENT******
+

@@ -1,0 +1,28 @@
+Name: R Adithya Kumar
+
+Address: F1 Sumana Apartments,Shanti Nagar,Bangalore-024
+
+Phone Number: 9765412845
+
+Credit Card Number: 35126700****1001
+
+Payment due date: 07/02/2020
+
+Previous month Balance: 3000.00 D
+
+Credit Limit: 205000.00
+
+Available Cash Limit: 10100.00
+
+Date		Transaction_Details	Amount(Rs.)	Merchant_Category
+24/01/2020	debits			739.00		MOTO  
+25/01/2020	credit			955.00		TRAVEL
+01/02/2020	debits			1010.00		TRAVEL
+03/02/2020	credit			999.00		FUEL  
+03/02/2020	debits			34201.00	PERSONAL
+04/02/2020	debits			3400.00		RESTAURANTS
+04/02/2020	debits			10010.00	TRANSPORT
+07/02/2020	debits			4400.00		BOOK STORE
+09/02/2020	debits			999.00		FUEL  
+09/02/2020	credit			432.00		TRANSPORT
+10/02/2020	debits			200.00		TRANSPORT
